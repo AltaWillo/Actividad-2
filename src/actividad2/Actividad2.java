@@ -12,7 +12,7 @@ package actividad2;
 
 
 public class Actividad2 {
-
+    //Principal
     /**
      * @param args the command line arguments
      */

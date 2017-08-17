@@ -26,6 +26,7 @@ public class Factorial extends JFrame implements ActionListener{
     }
     
     public void ventana(){
+        // Caracteristicas Ventana
         setTitle("Factorial y Fibonacci");
         setSize(400,400);
         setLocationRelativeTo(null);
